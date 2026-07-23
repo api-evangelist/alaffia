@@ -1,8 +1,30 @@
 aid: alaffia
 name: Alaffia
-description: Alaffia is a company surfaced as a portfolio company of anthemis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Alaffia (Alaffia Health) is a New York City-based healthtech company building an AI platform that
+  helps health plans reduce improper payments and administrative waste across claims operations. The
+  platform pairs expert clinicians with transparent, traceable AI agents to automate routine clinical
+  case reviews, normalize and extract data from medical records, and align clinical analysis with
+  payer policy while keeping a human validation step. Alaffia targets three operational teams inside
+  payers: payment integrity, utilization management, and appeals, offered as AI agents plus managed
+  services. The company reports outcomes such as 20x throughput, 97%+ accuracy, and 5x ROI, and operates
+  under HIPAA, SOC 2 Type II, and HITRUST compliance. Founded by TJ Ademiluyi (CEO) and Adun Akanni
+  (COO), Alaffia raised a $55M Series B in February 2026 and is backed by FirstMark, Anthemis, and
+  Transformation Capital. Alaffia currently exposes no public developer API or documentation surface;
+  this profile captures its identity, security posture, and compliance program.
 url: https://raw.githubusercontent.com/api-evangelist/alaffia/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://alaffiahealth.com/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,9 +36,51 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Healthcare
+- Health Insurance
+- Payment Integrity
+- Claims
+- Utilization Management
+- Artificial Intelligence
+- Machine Learning
+- Insurtech
+- Healthtech
+- United States
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://alaffiahealth.com/
+- type: About
+  url: https://alaffiahealth.com/about
+- type: Security
+  url: https://alaffiahealth.com/security
+- type: Compliance
+  url: https://alaffiahealth.com/security
+- type: Compliance
+  url: conformance/alaffia-conformance.yml
+- type: TrustCenter
+  url: security/alaffia-trust-center.yml
+- type: DomainSecurity
+  url: security/alaffia-domain-security.yml
+- type: Conformance
+  url: conformance/alaffia-conformance.yml
+- type: PrivacyPolicy
+  url: https://alaffiahealth.com/privacy-policy
+- type: TermsOfService
+  url: https://alaffiahealth.com/terms-of-use
+- type: Resources
+  url: https://alaffiahealth.com/resources
+- type: Jobs
+  url: https://alaffiahealth.com/careers
+- type: SignUp
+  url: https://alaffiahealth.com/get-a-demo
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
