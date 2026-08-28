@@ -13,6 +13,17 @@ description: >-
   Transformation Capital. Alaffia currently exposes no public developer API or documentation surface;
   this profile captures its identity, security posture, and compliance program.
 url: https://raw.githubusercontent.com/api-evangelist/alaffia/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
