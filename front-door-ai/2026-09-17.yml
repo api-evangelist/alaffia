@@ -1,0 +1,30 @@
+# Front Door AI Index — alaffia — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: alaffia
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: alaffiahealth.com
+  final_host: alaffiahealth.com
+  ownership: own
+  owner: alaffia
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 36
+  host_score: 36
+  density: 25.19
+  words: 1429
+  tiers:
+    agentic: 8
+    core: 28
+    model: 0
+  ambiguous: 12
+  top_terms:
+    AI: 26
+    AI agent: 8
+    agent: 8
+    automation: 3
+    machine learning: 2
+    intelligence: 1
