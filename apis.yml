@@ -53,7 +53,7 @@ tags:
 - Claims
 - Utilization Management
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Insurtech
 - Health Tech
 - United States
@@ -69,6 +69,7 @@ tags_raw:
 - Insurtech
 - Healthtech
 - United States
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
