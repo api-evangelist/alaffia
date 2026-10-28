@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alaffia is a company surfaced as a portfolio company of anthemis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Alaffia (Alaffia Health) is a New York City-based healthtech company building an AI platform that helps health plans reduce improper payments and administrative waste across claims operations. The platform pairs expert clinicians with transparent, traceable AI agents to automate routine clinical case reviews, normalize and extract data from medical records, and align clinical analysis with payer policy while keeping a human validation step. Alaffia targets three operational teams inside payers: payment integrity, utilization management, and appeals, offered as AI agents plus managed services. The company reports outcomes such as 20x throughput, 97%+ accuracy, and 5x ROI, and operates under HIPAA, SOC 2 Type II, and HITRUST compliance. Founded by TJ Ademiluyi (CEO) and Adun Akanni (COO), Alaffia raised a $55M Series B in February 2026 and is backed by FirstMark, Anthemis, and Transformation Capital. Alaffia currently exposes no public developer API or documentation surface; this profile captures its identity, security posture, and compliance program.
 
-Backed by: anthemis
+**Areas:** Company · Healthcare · Health Insurance · Payment Integrity · Claims · Utilization Management · Artificial Intelligence · Machine Learning · Insurtech · Health Tech · United States
+
+## Alaffia on APIs.io
+
+Everything profiled for Alaffia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alaffia/](https://apis.io/providers/alaffia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alaffia Domain Security](https://apis.io/security/alaffia/alaffia-domain-security/)
+- [Alaffia Trust Center](https://apis.io/security/alaffia/alaffia-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alaffiahealth.com/)
+- [Sign up](https://alaffiahealth.com/get-a-demo)
+- [Blog](https://alaffiahealth.com/articles)
+- [Security](https://alaffiahealth.com/security)
+- [Compliance](https://alaffiahealth.com/security)
+- [Terms of service](https://alaffiahealth.com/terms-of-use)
+- [Privacy policy](https://alaffiahealth.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.7** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alaffia/](https://apis.io/providers/alaffia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alaffia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alaffia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
